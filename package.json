@@ -1,0 +1,30 @@
+{
+  "name": "react-native-apps-communication",
+  "version": "0.0.1",
+  "description": "a library to provide communication between react-native components running in different JSVMs in the same Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagostutz/react-native-apps-communication.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "communication",
+    "interapp",
+    "app",
+    "bus",
+    "decorator",
+    "invoke",
+    "listen"
+  ],
+  "author": "Tiago de Oliveira Stutz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagostutz/react-native-apps-communication/issues"
+  },
+  "homepage": "https://github.com/tiagostutz/react-native-apps-communication#readme"
+}
